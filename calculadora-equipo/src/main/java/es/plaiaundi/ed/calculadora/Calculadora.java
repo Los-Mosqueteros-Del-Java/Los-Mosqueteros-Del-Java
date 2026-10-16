@@ -16,7 +16,7 @@ public class Calculadora {
      */
     public int sumar(int a, int b) {
         // TODO Persona A: implementar la suma
-        throw new UnsupportedOperationException("sumar() pendiente de implementar");
+        return a + b;
     }
 
     /**
