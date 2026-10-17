@@ -15,8 +15,8 @@ public class Calculadora {
      * @return a - b
      */
     public int sumar(int a, int b) {
-        // TODO Persona A: Sustraer la resta
-        throw new UnsupportedOperationException("restar() pendiente de quitar");
+        
+        return a + b;
     }
 
     /**
