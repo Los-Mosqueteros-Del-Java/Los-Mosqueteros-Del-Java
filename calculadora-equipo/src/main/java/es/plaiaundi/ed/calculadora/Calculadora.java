@@ -15,7 +15,7 @@ public class Calculadora {
      * @return a + b
      */
     public int sumar(int a, int b) {
-        // TODO Persona A: implementar la suma
+        
         return a + b;
     }
 

@@ -1,3 +1,4 @@
+
 package es.plaiaundi.ed.calculadora;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
@@ -28,5 +29,10 @@ class SumaTest {
         assertEquals(9, calc.sumar(9, 0));
     }
 
-    // TODO Persona A: anade aqui tu propio caso de prueba
+    @Test
+    @DisplayName("-8 + 15 = 7")
+    void sumaPositivoYNegativo() {
+        assertEquals(7, calc.sumar(-8, 15));
+    }
 }
+
