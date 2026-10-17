@@ -7,12 +7,12 @@ package es.plaiaundi.ed.calculadora;
 public class Calculadora {
 
     /**
-     * Suma dos numeros enteros.
-     * Responsable: Persona A (rama feature/suma).
+     * Resta dos numeros enteros.
+     * Responsable: Persona A (rama feature/resta).
      *
-     * @param a primer sumando
-     * @param b segundo sumando
-     * @return a + b
+     * @param a minuendo
+     * @param b sustraendo
+     * @return a - b
      */
     public int sumar(int a, int b) {
         
@@ -29,7 +29,7 @@ public class Calculadora {
      */
     public int restar(int a, int b) {
         // TODO Persona B: implementar la resta
-        throw new UnsupportedOperationException("restar() pendiente de implementar");
+        return a - b;
     }
 
     /**
