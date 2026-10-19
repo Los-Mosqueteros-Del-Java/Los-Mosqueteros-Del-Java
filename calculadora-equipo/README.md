@@ -8,7 +8,7 @@ Laboratorio de Git - Entornos de Desarrollo (0487) - DAM - Plaiaundi LHII-CIFP
 |-----|--------|----------------|------|
 | Persona A (coordinacion + suma) | | | feature/suma |
 | Persona B (resta) | | | feature/resta |
-| Persona C (multiplicacion) | | | feature/multiplicacion |
+| Persona C (multiplicacion) | Fausto Morocho | FaustoMorocho5 | feature/multiplicacion |
 
 ## Como compilar y probar
 

@@ -20,6 +20,7 @@ public class Main {
 
         // Demostraciones: cada persona anade AQUI debajo su linea
         System.out.println("Resta: " + calc.restar(a, b));
+        System.out.println("Multiplicación: " + calc.multiplicar(a, b));
         
         sc.close(); // Buena práctica para cerrar el Scanner
     }

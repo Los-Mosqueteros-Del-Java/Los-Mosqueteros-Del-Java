@@ -29,4 +29,9 @@ class MultiplicacionTest {
     }
 
     // TODO Persona C: anade aqui tu propio caso de prueba
+     @Test
+    @DisplayName("7 x 0 = 0")
+    void multiplicarNegativoPorNegativo() {
+        assertEquals(10, calc.multiplicar(-2, -5));
+    }
 }
