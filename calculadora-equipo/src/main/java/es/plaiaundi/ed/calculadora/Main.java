@@ -19,6 +19,7 @@ public class Main {
         int b = sc.nextInt();
 
         // Demostraciones: cada persona anade AQUI debajo su linea
+        System.out.println("Suma: " + calc.sumar(a, b));
         System.out.println("Resta: " + calc.restar(a, b));
         System.out.println("Multiplicación: " + calc.multiplicar(a, b));
         
