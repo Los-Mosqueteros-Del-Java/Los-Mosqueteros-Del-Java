@@ -10,9 +10,9 @@ public class Calculadora {
      * Resta dos numeros enteros.
      * Responsable: Persona A (rama feature/resta).
      *
-     * @param a minuendo
-     * @param b sustraendo
-     * @return a - b
+     * @param a sumando
+     * @param b sumando
+     * @return a + b
      */
     public int sumar(int a, int b) {
         
